@@ -1,0 +1,21 @@
+body{
+    font-family: "Noto Sans", system-ui, sans-serif;
+    margin: auto;
+    max-width: 800px;
+}
+h2 {
+    color: #38761D;
+    text-decoration: underline;
+}
+.mark{
+    color: #EA9999;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #68CBF2;
+}
+a:hover{
+    text-decoration: underline;
+}

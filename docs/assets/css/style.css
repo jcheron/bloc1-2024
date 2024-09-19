@@ -1,0 +1,30 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    margin: auto;
+    max-width: 800px;
+}
+
+.label {
+    font-weight: normal;
+    font-size: 0.6em;
+    color: #fff;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: crimson;
+}
+
+h3{
+    border-top: solid 2px rgba(220, 20, 60, .5);
+    border-bottom: solid 2px rgba(220, 20, 60, .5);
+    padding: 10px 0;
+}
+.zone {
+    margin: 10px 0;
+    padding: 10px 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+a{
+    text-decoration: none;
+}
